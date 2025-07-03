@@ -1,0 +1,155 @@
+[
+    {
+        "id": 1,
+        "bookName": "The Silent Patient",
+        "author": "Alex Michaelides",
+        "image": "https://i.ibb.co/MxJ6mNRn/kindpng-81724-1.png",
+        "review": "Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare.\nId neque neque pretium enim platea urna non dictum. Faucibus dignissim ridiculus nibh tristique massa non. minimap atotuku diba",
+        "totalPages": 336,
+        "rating": 4.3,
+        "category": "Thriller",
+        "tags": [
+            "Suspense",
+            "Psychological",
+            "Mystery"
+        ],
+        "publisher": "Celadon Books",
+        "yearOfPublishing": 2019
+    },
+    {
+        "id": 2,
+        "bookName": "Educated",
+        "author": "Tara Westover",
+        "image": "https://i.ibb.co/BK216HS5/kindpng-7318921.png",
+        "review": "Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare.\nId neque neque pretium enim platea urna non dictum. Faucibus dignissim ridiculus nibh tristique massa non. minimap atotuku diba",
+        "totalPages": 352,
+        "rating": 4.7,
+        "category": "Memoir",
+        "tags": [
+            "Inspirational",
+            "Biography",
+            "Self-Discovery"
+        ],
+        "publisher": "Random House",
+        "yearOfPublishing": 2018
+    },
+    {
+        "id": 3,
+        "bookName": "Where the Crawdads Sing",
+        "author": "Delia Owens",
+        "image": "https://i.ibb.co/Pshjg0jb/kindpng-1064993.png",
+        "review": "Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare.\nId neque neque pretium enim platea urna non dictum. Faucibus dignissim ridiculus nibh tristique massa non. minimap atotuku diba",
+        "totalPages": 384,
+        "rating": 4.5,
+        "category": "Fiction",
+        "tags": [
+            "Mystery",
+            "Drama",
+            "Nature"
+        ],
+        "publisher": "G.P. Putnam's Sons",
+        "yearOfPublishing": 2018
+    },
+    {
+        "id": 4,
+        "bookName": "Atomic Habits",
+        "author": "James Clear",
+        "image": "https://i.ibb.co/MyGwzVBg/kindpng-4022054-1.png",
+        "review": "Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare.\nId neque neque pretium enim platea urna non dictum. Faucibus dignissim ridiculus nibh tristique massa non. minimap atotuku diba",
+        "totalPages": 320,
+        "rating": 4.8,
+        "category": "Self-Help",
+        "tags": [
+            "Personal Development",
+            "Productivity",
+            "Psychology"
+        ],
+        "publisher": "Avery",
+        "yearOfPublishing": 2018
+    },
+    {
+        "id": 5,
+        "bookName": "Dune",
+        "author": "Frank Herbert",
+        "image": "https://i.ibb.co/MxJ6mNRn/kindpng-81724-1.png",
+        "review": "Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare.\nId neque neque pretium enim platea urna non dictum. Faucibus dignissim ridiculus nibh tristique massa non. minimap atotuku diba",
+        "totalPages": 688,
+        "rating": 4.6,
+        "category": "Science Fiction",
+        "tags": [
+            "Epic",
+            "Adventure",
+            "Fantasy"
+        ],
+        "publisher": "Chilton Books",
+        "yearOfPublishing": 1965
+    },
+    {
+        "id": 6,
+        "bookName": "Becoming",
+        "author": "Michelle Obama",
+        "image": "https://i.ibb.co/20bZ4H1j/kindpng-2592315-1.png",
+        "review": "Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare.\nId neque neque pretium enim platea urna non dictum. Faucibus dignissim ridiculus nibh tristique massa non. minimap atotuku diba",
+        "totalPages": 448,
+        "rating": 4.9,
+        "category": "Autobiography",
+        "tags": [
+            "Inspirational",
+            "Memoir",
+            "Politics"
+        ],
+        "publisher": "Crown Publishing Group",
+        "yearOfPublishing": 2018
+    },
+    {
+        "id": 7,
+        "bookName": "The Night Circus",
+        "author": "Erin Morgenstern",
+        "image": "https://i.ibb.co/BHyLFLzW/kindpng-4945926-1.png",
+        "review": "Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare.\nId neque neque pretium enim platea urna non dictum. Faucibus dignissim ridiculus nibh tristique massa non. minimap atotuku diba",
+        "totalPages": 387,
+        "rating": 4.2,
+        "category": "Fantasy",
+        "tags": [
+            "Magic",
+            "Romance",
+            "Mystery"
+        ],
+        "publisher": "Doubleday",
+        "yearOfPublishing": 2011
+    },
+    {
+        "id": 8,
+        "bookName": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "image": "https://i.ibb.co/MyGwzVBg/kindpng-4022054-1.png",
+        "review": "Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare.\nId neque neque pretium enim platea urna non dictum. Faucibus dignissim ridiculus nibh tristique massa non. minimap atotuku diba",
+        "totalPages": 498,
+        "rating": 4.6,
+        "category": "Non-Fiction",
+        "tags": [
+            "History",
+            "Anthropology",
+            "Science"
+        ],
+        "publisher": "Harper",
+        "yearOfPublishing": 2014
+    },
+    {
+        "id": 9,
+        "bookName": "The Alchemist",
+        "author": "Paulo Coelho",
+        "image": "https://i.ibb.co/BHyLFLzW/kindpng-4945926-1.png",
+        "review": "Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare.\nId neque neque pretium enim platea urna non dictum. Faucibus dignissim ridiculus nibh tristique massa non. minimap atotuku diba",
+        "totalPages": 208,
+        "rating": 4.0,
+        "category": "Fiction",
+        "tags": [
+            "Philosophy",
+            "Adventure",
+            "Inspirational"
+        ],
+        "publisher": "HarperOne",
+        "yearOfPublishing": 1988
+    }
+]
